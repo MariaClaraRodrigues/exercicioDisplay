@@ -1,2 +1,2 @@
 # Exercicio De Display
-Esse foi um exercicio para aprender sobre display que eu fiz pela Origami.
+Esse foi um exercicio para aprender e por em prática, sobre display que eu fiz pela Origami.
